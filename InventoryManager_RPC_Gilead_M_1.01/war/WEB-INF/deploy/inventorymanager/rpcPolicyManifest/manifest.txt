@@ -1,0 +1,3 @@
+# Module inventorymanager
+# RPC service class, partial path of RPC policy file
+com.aeryinnovations.client.InventoryManagerService, 35849A833F2DFA334A07D590CACC097B.gwt.rpc

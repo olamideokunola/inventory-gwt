@@ -1,0 +1,2 @@
+serviceClass: com.aeryinnovations.client.InventoryManagerService
+path: 35849A833F2DFA334A07D590CACC097B.gwt.rpc
